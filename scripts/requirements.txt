@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+imutils
+scipy
+py3toolbox
+typing-extensions>=4.13.2
+tensorflow
+matplotlib
+scikit-learn
+PyQt5
